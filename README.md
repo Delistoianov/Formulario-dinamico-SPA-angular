@@ -2,8 +2,7 @@
 
 ## Tecnologia:
 
-O projeto desenvolvido demostra a construção de uma Single Page Application (SPA) com a utilização do framework de desenvolvimento web Angular. O SPA permite que a pagina carregue uma única vez no navegador, mesmo em páginas dinâmicas. Isso é possível graças à capacidade do Angular de manipular o DOM de forma eficiente, utilizando técnicas como o data binding para atualizar a interface do usuário com base nos dados e o roteamento no lado do cliente para navegar entre diferentes seções ou "páginas" sem recarregar a aplicação. Com isso, o Angular facilita a construção de SPAs que oferecem uma experiência de usuário suave e reativa, similar a aplicativos nativos, ao mesmo tempo em que mantém o carregamento inicial como o único carregamento necessário durante a sessão do usuário.
-
+O projeto desenvolvido demostra a construção de uma Single Page Application (SPA) com a utilização do framework de desenvolvimento web Angular. O SPA permite que a pagina seja carregada uma única vez no navegador, mesmo quando se navega por conteúdos dinâmicos. Isso é possível graças à capacidade do Angular de manipular o DOM de forma eficiente, utilizando técnicas como o data binding para atualizar a interface do usuário com base nos dados e o roteamento no lado do cliente para navegar entre diferentes seções ou "páginas" sem recarregar a aplicação. Com isso, o Angular facilita a construção de SPAs que oferecem uma experiência de usuário suave e reativa, similar a aplicativos nativos, ao mesmo tempo em que mantém o carregamento inicial como o único carregamento necessário durante a sessão do usuário.
 
 ## Conceitos Aprendidos:
 
@@ -14,7 +13,7 @@ Através deste tutorial, aprofundei minha compreensão sobre o Angular, especial
 
 [SPA_funcionamento.webm](https://github.com/Delistoianov/Formulario-dinamico-SPA-angular/assets/99195054/a68fa58d-2784-44e0-8562-b310c1ec5937)
 
-Note no vídeo que ao mudar as informações dos inputs o Json muda sem que a página tenha que recarreguar.
+Note no vídeo que ao mudar as informações dos inputs o Json muda sem que a página tenha que recarregar.
 
 Para executar o código basta navegar até a pasta "hero-employment-form" e executar o comando ng server.
 
