@@ -12,7 +12,7 @@ Através deste tutorial, aprofundei minha compreensão sobre o Angular, especial
 ## Funcionamento:
 
 
-
+[SPA_funcionamento.webm](https://github.com/Delistoianov/Formulario-dinamico-SPA-angular/assets/99195054/a68fa58d-2784-44e0-8562-b310c1ec5937)
 
 Para executar o código basta navegar até a pasta "hero-employment-form" e executar o comando ng server.
 
